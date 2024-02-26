@@ -11,4 +11,4 @@ www.terabox.com##.center.vjs-modal-wrapper
 www.terabox.com##.ad-patch-base
 www.terabox.com##.premium-guide-box
 https://sofire.terabox.com
-
+www.terabox.com##.membership-entry
