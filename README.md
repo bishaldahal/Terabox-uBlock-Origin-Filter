@@ -40,3 +40,5 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 These filters are provided on an as-is basis. The effectiveness may vary based on updates to the Terabox website. If you encounter any issues or have suggestions, please let us know.
 
 Happy ad-free browsing!
+
+![](https://komarev.com/ghpvc/?username=terabox-ublock-filters&label=REPO+VIEWS)
